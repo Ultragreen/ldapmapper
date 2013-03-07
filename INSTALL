@@ -1,0 +1,28 @@
+How to install Ldapmapper ?
+===========================
+
+1 / You have or you would get the TARBALL Gzipped packet :
+
+Get by Rubyforge or Ultragreen servers :
+
+$ cd /tmp
+$ wget http://rubyforge.org/frs/download.php/252/ldapmapper-1.4.tar.gz
+or 
+$ wget http://www.ultragreen.net/downloads/ldapmapper-1.4.tar.gz
+$ tar xvzf ldapmapper-1.4.tar.gz
+$ cd ldapmapper-1.4
+$ sudo bash
+or 
+$ su -
+# ./setup.rb
+ 
+
+2/ You have he gem file or get it from Rubyforge
+
+
+$ sudo bash
+or 
+$ su -
+# gem ins ldapmapper-1.4.gem
+or
+# gem ins ldapmapper
