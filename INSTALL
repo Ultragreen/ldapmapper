@@ -2,6 +2,7 @@ How to install Ldapmapper ?
 ===========================
 
 1 / You have or you would get the TARBALL Gzipped packet :
+----------------------------------------------------------
 
 Get by Rubyforge or Ultragreen servers :
 
@@ -18,7 +19,7 @@ $ su -
  
 
 2/ You have he gem file or get it from Rubyforge
-
+------------------------------------------------
 
 $ sudo bash
 or 
